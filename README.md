@@ -28,3 +28,8 @@ This script is ideal for:
 - Auditing or archiving website links.
 - Research and data collection tasks.
 
+---
+
+### 👨‍💻 Author
+Developed by [Shreyash Ingle](https://github.com/shreyash0019)
+
