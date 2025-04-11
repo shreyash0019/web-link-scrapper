@@ -30,6 +30,6 @@ This script is ideal for:
 
 ---
 
-### 👨‍💻 Author
+
 Developed by [Shreyash Ingle](https://github.com/shreyash0019)
 
